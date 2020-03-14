@@ -1,0 +1,16 @@
+{
+  "name": "handy-engine",
+  "version": "0.1.0",
+  "description": "a fantastic engine for web application",
+  "main": "index.js",
+  "repository": "https://github.com/handy-engine/handy-engine.git",
+  "author": "dzg <dongzhigang_bit@126.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.9.1",
+    "@typescript-eslint/eslint-plugin": "^2.23.0",
+    "@typescript-eslint/parser": "^2.23.0",
+    "eslint": "^6.8.0",
+    "typescript": "^3.8.3"
+  }
+}
